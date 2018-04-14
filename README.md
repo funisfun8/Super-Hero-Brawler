@@ -1,0 +1,3 @@
+# Super-Hero-Brawler
+An indie fighting game in development using Unity3D.
+More information to come...
